@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Xiaoting ZHai's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,17 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+-Only once a week!
+-Nice instructors
+-Great study atmosphere!
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
